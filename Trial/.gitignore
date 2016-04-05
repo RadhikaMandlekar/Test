@@ -1,0 +1,12 @@
+desktop.ini
+*.~
+*.v~
+*.swp
+*.xml
+.*~
+impl_1/
+synth_1/
+*.cache/
+*.log
+*.jou
+*.hw/

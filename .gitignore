@@ -1,0 +1,14 @@
+desktop.ini
+*.~
+*.v~
+*.swp
+*.xml
+.*~
+impl_1/
+synth_1/
+SoC/
+Adv_Comp_Arch_I/
+*.cache/
+*.log
+*.jou
+*.hw/
